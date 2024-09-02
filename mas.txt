@@ -1,0 +1,7 @@
+1 - supportability 5
+2 - functionality 1
+3 - supportability 5
+4 - 1
+5 - reliabilty 3
+6 - 1
+7 - 2 
